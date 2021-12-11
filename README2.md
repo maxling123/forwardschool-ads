@@ -1,15 +1,22 @@
 "# testnow" 
 
-<h1>Forward School Demo</h1>
+<h1 align="centre">Forward School Demo</h1>
 
 <!-- Table of Contents -->
-# Table of Contents
+### Table of Contents
 <li>
-<a href="#Getting Started"></a>
+<a href="#Getting Started">Getting Started</a>
 </li>
 <li>
-<a href="#Showcasing"></a>
+<a href="#Showcasing">Showcasing</a>
 </li>
+
+<!-- Table of Contents -->
+### Link to Github
+<li>
+<a href="https://github.com/">Accessing Github</a>
+</li>
+
 
 <!-- Getting Started -->
 ## Getting Started
